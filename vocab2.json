@@ -57,7 +57,7 @@
             "lstrip": false,
             "rstrip": false,
             "normalized": false
-        },
+        }
 
     ],
     "normalizer": null,
